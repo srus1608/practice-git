@@ -3,3 +3,4 @@ some change done by user1
 second line
 I"M recreating a.txt
 add some more lines
+"i solved merge comflict"
